@@ -1,6 +1,6 @@
 package practise_java;
 
-public class forloop {
+public class Forloop {
 
 	public static void main(String[] args) {
 		int term=6;  

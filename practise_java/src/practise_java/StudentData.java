@@ -1,6 +1,6 @@
 package practise_java;
 
-public class studentData {
+public class StudentData {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -17,7 +17,7 @@ public class studentData {
 	    for(int j = 1; j<=10; j++) {  
 	    	sum = sum + j;  
 	    	}  
-	    	System.out.println("The sum of first 10 natural numbers is " + sum);  
+	    	System.out.println("The sum of First 10 natural numbers is " + sum);  
 	    // Print variables
 	    System.out.println("Student name: " + studentName);
 	    System.out.println("Student id: " + studentID);
@@ -25,10 +25,10 @@ public class studentData {
 	    System.out.println("Student fee: " + studentFee);
 	    System.out.println("Student grade: " + studentGrade);
 	    System.out.println(Fse);
-	    System.out.println("first initialised :"+x);
+	    System.out.println("First initialised :"+x);
 	    System.out.println(x++);
 	    System.out.println("After initialised :"+x);
-	    System.out.println("first initialised :"+a);
+	    System.out.println("First initialised :"+a);
 	    System.out.println(++a);
 	    System.out.println("After initialised :"+a);
 
