@@ -8,7 +8,7 @@ public class studentData {
 	    String studentName = "John Doe";
 	    int studentID = 15;
 	    int studentAge = 23;
-	    float studentFee = 75.1234567890f;
+	    float studentFee = 75.1234567890f; 
 	    double Fse = 75.123456789012345678901234567890;
 	    char studentGrade = 'B';
 	    int x=10;

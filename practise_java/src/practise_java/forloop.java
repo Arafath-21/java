@@ -7,7 +7,7 @@ public class forloop {
 		for(int i=1;i<=term;i++){  
 		for(int j=term;j>=i;j--){  
 		        System.out.print("* ");  
-		}  
+		}   
 		System.out.println();//new line  
 		}  		// TODO Auto-generated method stub
 
